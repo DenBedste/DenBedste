@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi I'm Kasper 👋
+Software developer currently studying Software Engineering BA @ SDU in Odense, Denmark.
+
+My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
+
+
+
+### Useful Links
+* [LinkedIn](https://www.linkedin.com/in/kasper-b%C3%B8gvad-nielsen-384b6519b/)
+
 
 <!--
 **DenBedste/DenBedste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
