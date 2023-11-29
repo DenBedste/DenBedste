@@ -1,9 +1,9 @@
 ### Hi I'm Kasper 👋
 Software developer currently studying Software Engineering BA @ SDU in Odense, Denmark.
 
-My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made in Vue.js/Node.js/MySQL. 
+My current side-project is a fitness tracker called [Strongr](https://stron.gr). Made in React native/Rust/mongodb. 
 
-
+Also working on a tools/tracker website for LeagueOfLegends [site](https://flexchallenges.lol). Made in NuxtJS/NodeJS/MongoDb and queue with RabbitMQ/Golang.
 
 ### Useful Links
 * [LinkedIn](https://www.linkedin.com/in/kasper-b%C3%B8gvad-nielsen-384b6519b/)
